@@ -8,26 +8,30 @@
 
 ![image](https://github.com/user-attachments/assets/e3b6abeb-0fae-4d3b-9988-eda0de04593b)
 
-## 회원가입 / 로그인
+## 구현 화면 
+
+### 회원가입 / 로그인
 ![auth](https://github.com/user-attachments/assets/afabecd4-4a73-477f-809e-564d4ea6af7e)
 
-## 진입화면
+### 진입화면
 ![info](https://github.com/user-attachments/assets/cde6eb64-af5c-46e4-98f7-7c02ba3771bd)
 
 
-## 채팅화면
+### 채팅화면
 ![chatting](https://github.com/user-attachments/assets/74b048aa-f866-4c0d-bfe6-d76ddff98671)
 
 
 
-### repo
+## repo
 📁 appendix - EDA, prompt
 
 📁 local - web(react, fastapi)
 
 📁 src_aws_eks_iac_cicd
 
-### team
+📁 retrival_test - rag 성능 test
+
+### 👥team
 ![SeSAC_final_project](https://github.com/user-attachments/assets/415c0144-fb58-42b2-a208-909f3dac5ae9)
 
 #### ‼️💡 Commit Convention
