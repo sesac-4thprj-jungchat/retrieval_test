@@ -31,6 +31,24 @@
 
 📁 retrival_test - rag 성능 test
 
+## rag retrieval test
+### query translate
+ Base RAG, multi-query, step back, RAG fusion
+### ranking
+ rerank, rankGPT, Cross-Encoder 3step
+
+해당 모델에서 9가지 경우 모두 조합 후 score
+
+### ✔️ step back + reranking 모델 선정
+step back+chunk_size=500, chunk_overlap=50+reranking
+
+step back+recursive+reranking
+
+step back+semantic+reranking
+
+![스크린샷 2025-04-15 오후 3 33 43](https://github.com/user-attachments/assets/c7d2d11a-4d0e-4dde-86e5-263e41be605e)
+
+
 ### 👥team
 ![SeSAC_final_project](https://github.com/user-attachments/assets/415c0144-fb58-42b2-a208-909f3dac5ae9)
 
