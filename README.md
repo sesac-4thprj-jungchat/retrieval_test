@@ -8,29 +8,6 @@
 
 ![image](https://github.com/user-attachments/assets/e3b6abeb-0fae-4d3b-9988-eda0de04593b)
 
-## 구현 화면 
-
-### 회원가입 / 로그인
-![auth](https://github.com/user-attachments/assets/afabecd4-4a73-477f-809e-564d4ea6af7e)
-
-### 진입화면
-![info](https://github.com/user-attachments/assets/cde6eb64-af5c-46e4-98f7-7c02ba3771bd)
-
-
-### 채팅화면
-![chatting](https://github.com/user-attachments/assets/74b048aa-f866-4c0d-bfe6-d76ddff98671)
-
-
-
-## repo
-📁 appendix - EDA, prompt
-
-📁 local - web(react, fastapi)
-
-📁 src_aws_eks_iac_cicd
-
-📁 retrival_test - rag 성능 test
-
 ## rag retrieval test
 ### query translate 단계
  Base RAG, multi-query, step back, RAG fusion
@@ -54,6 +31,29 @@ step back+semantic+reranking
 따라서, 사용하지 않고 ✔️ step back + reranking 모델 선정
 
 ![스크린샷 2025-04-15 오후 3 33 43](https://github.com/user-attachments/assets/c7d2d11a-4d0e-4dde-86e5-263e41be605e)
+
+## 구현 화면 
+
+### 회원가입 / 로그인
+![auth](https://github.com/user-attachments/assets/afabecd4-4a73-477f-809e-564d4ea6af7e)
+
+### 진입화면
+![info](https://github.com/user-attachments/assets/cde6eb64-af5c-46e4-98f7-7c02ba3771bd)
+
+
+### 채팅화면
+![chatting](https://github.com/user-attachments/assets/74b048aa-f866-4c0d-bfe6-d76ddff98671)
+
+
+
+## repo
+📁 appendix - EDA, prompt
+
+📁 local - web(react, fastapi)
+
+📁 src_aws_eks_iac_cicd
+
+📁 retrival_test - rag 성능 test
 
 
 ## 👥team
